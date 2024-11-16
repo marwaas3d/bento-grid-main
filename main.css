@@ -312,7 +312,7 @@
         height: 99%;
         border-radius: 20px;
         display: grid;
-        grid-template-rows: 10% 8% 9% 24% 14% 9.4% 10% 17%;
+        grid-template-rows: 10% 8% 9% 26% 14% 9.4% 10% 17%;
         gap: 25px;
     }
 
@@ -359,7 +359,7 @@
         text-align: center;
         width: 456px;
         letter-spacing: 0px;
-        margin-top: -40px;
+        margin-top: -31px;
         margin-left: -8px;
     }
 
@@ -410,7 +410,7 @@
         line-height: 25px;
     }
     .sixth img{        width: 57%;
-        height: 55%;
+        height: 54%;
         margin-left: 14px;
         margin-top: 16px;
         content: url(./assets/images/illustration-consistent-schedule.webp);
