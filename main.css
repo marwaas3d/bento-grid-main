@@ -312,7 +312,7 @@
         height: 99%;
         border-radius: 20px;
         display: grid;
-        grid-template-rows: 10% 7% 8% 20% 14% 7.4% 10% 15%;
+        grid-template-rows: 10% 8% 9% 24% 14% 9.4% 10% 17%;
         gap: 25px;
     }
 
@@ -348,7 +348,7 @@
     .second img{
         width: 159px;
         height: 27px;
-        margin-top: 132px;
+        margin-top: 111px;
         margin-left: -212px;
     }
 
@@ -359,8 +359,8 @@
         text-align: center;
         width: 456px;
         letter-spacing: 0px;
-        margin-top: -61px;
-        margin-left: -5px;
+        margin-top: -40px;
+        margin-left: -8px;
     }
 
 /************************************/
@@ -381,7 +381,7 @@
 
 .fifth h2{
     margin-left: 19px;
-    margin-top: 4px;
+    margin-top: -4px;
     font-weight: 500;
     color: var(--Black);
     letter-spacing: -2px;
@@ -409,9 +409,8 @@
         width: 225px;
         line-height: 25px;
     }
-    .sixth img{
-        width: 62%;
-        height: 59%;
+    .sixth img{        width: 57%;
+        height: 55%;
         margin-left: 14px;
         margin-top: 16px;
         content: url(./assets/images/illustration-consistent-schedule.webp);
@@ -442,7 +441,7 @@
     }
     .third p{
         margin-left: 22px;
-        margin-top: 17px;
+        margin-top: 15px;
         font-size: 19px;
         width: 289px;
         letter-spacing: -1px;
